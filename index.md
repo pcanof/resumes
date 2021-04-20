@@ -27,6 +27,8 @@ The meetings of this week I learned in the orientation meeting about who to turn
 
 
 
+
+
 #Week 2 Polyglot Programming 
 
 What I have learned from the videos is that great programmers actually trust other programmers to carry out the project that made them famous and you have to know how to socialize with your co-workers so that by working together we can create code that works efficiently. Working in a team requires having a friendly environment to be able to communicate and understand each other, and I also learned that performance is important in web applications and the data compression is a good way to achieve this. 
