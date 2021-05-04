@@ -196,3 +196,5 @@ We argue that you should perform your chaos engineering experiments in the follo
 For the pretotyping exercise I learned how to use Figma that is a web application to create a design of an application in this a case a mobile application. Before start a project is better to be sure if the users will use the application, so for that we create a scenario to validate the idea and see if it is viable to create the application. I make a survey for an application that warns you if you will upload sensitive information about yourself and all the results are in the document in this link. (You need to have a Encora email to see the document)  
 
 https://encoradigital-my.sharepoint.com/:w:/g/personal/miguel_romero_encora_com/EZIwb4713txGroauZACNTzcBIC2O_IIF3lVh-gja3ymVVQ?e=2AXzaY 
+
+[Link](month.md)
