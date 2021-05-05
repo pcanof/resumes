@@ -7,3 +7,5 @@ As in other readings or videos, I understood that perfection is unreal and extre
 **Exercise**
 
 With the google jam exercise, I learn how to use clojure that is a program language that I never hear about it. I learn how to install clojure in the terminal of the mac and then how to run a line of the code in the terminal. Also I learn about queues and stack from an exercise from HackerRank, I already know about these data structures but I don’t use them a lot so is good remember about this.
+
+[return to index](index.md)
