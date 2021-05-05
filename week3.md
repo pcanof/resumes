@@ -43,3 +43,5 @@ It is impressive how quantum physics could help us in the problems of computer l
 **Java Exercise.**
 
 This week I had to solve an exercise in Java about to made a movie recommender. This language is familiar to me because I used to design Android applications in Java and the IDE that I used was Intellij that is the same company that make Android Studio, but I had a problem with Maven because I used to see the “println” outputs in the terminal but in Maven you can’t do it. In the process of this exercise, I learned how to install the Java build tools, its dependencies how to manage them and so on. To improve the performance for the program, it was better to use Hash tables instead of lists so it was great to apply.
+
+[return to index](index.md)
