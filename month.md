@@ -1,3 +1,5 @@
+[return to index](index.md)
+
 **Month 1 Reset Phase**
 
 It's been a month since the academy started and I learn a lot about how to learn, how to be more successful with your goals, how start a project and how to talk with coworker and clients about software development and social meetings. This month was difficult to me because I don’t have organization with my activities and sometimes, I don’t finish the activities on time. But the first month is for reset your mind and improve yourself. I’ve learned a lot these weeks and I’m going to do my best for getting more knowledge and experience in this area. In this [link](https://drive.google.com/file/d/1ozFSGsEU2f9IKycyAX9Be9HlHHdsHbn1/view?usp=sharing) you can see a sketch about this month. 
