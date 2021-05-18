@@ -6,7 +6,7 @@ In this series of videos I learn about how to start a software project with some
 
 It's importan to define when a storie is **done** because it depends of what you are expecting from the program and sometimes is necessary that a client approves the new features to be **done**.
 
-**client meeting**
+**Client Meeting**
 
 In the meetinig of the clients, they explained us about an application in slack for improve the learning in the company. The first time we present our idea for the application, it didn't go well because we didn't know how to respon why we choose some technology for the solution. The second time we prepare better and the clients understand what we porposed to do for the solution and there was some comments about the database that we will considered for the project. In the next meeting we will present the skeleton of the application and I hope our program works fine.
 
