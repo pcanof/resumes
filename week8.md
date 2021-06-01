@@ -7,7 +7,7 @@ It is a metaphorical idea of a person that with a lot of work, this person can b
 
 **The black swan**
 
-I understand about the lecture that the biggest things are more complex. And how an unexpected situation can affect us like for example the pandemic of COVID. This situation affect a lot to the economy at all the workd. 
+I understand about the lecture that the biggest things are more complex. And how an unexpected situation can affect us like for example the pandemic of COVID. This situation affect a lot to the economy at all the workd. And in this situation the people that was prepared for this situatipn take an advantage to achieve their goals.
 
 **Client Meetings**
 
