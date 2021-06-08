@@ -15,4 +15,6 @@ In this site you can see my intership journey in encora
 1. [Week 1](week1-Phase2.md)
 2. [Week 2](week2-Phase2.md)
 3. [Week 3](week8.md)
+4. [Week 4](week9.md)
+5. [Month 2](month2.md)
 
