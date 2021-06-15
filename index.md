@@ -19,5 +19,6 @@ In this site you can see my intership journey in encora
 5. [Month 2](month2.md)
 
 **Phase 3 Open Source**
+
 1. [Week 1](week10.md)
 
