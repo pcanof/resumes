@@ -21,5 +21,6 @@ In this site you can see my intership journey in encora
 **Phase 3 Open Source**
 
 1. [Week 1](week10.md)
-2. [Week 2](week11.md)
+2. [Week 2](week11.md) and [Questions about some open source projects](questions.md)
+
 
