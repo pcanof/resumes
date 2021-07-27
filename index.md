@@ -29,3 +29,4 @@ In this site you can see my intership journey in encora
 **Phase 4 Your personal Brand**
 
 1. [Week 1](week15.md)
+2. [Week 2](week16.md)
